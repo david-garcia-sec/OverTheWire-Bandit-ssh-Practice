@@ -1,2 +1,2 @@
 # OverTheWire-Bandit-Notes
-Notas y aprendizajes prácticos de los primeros niveles de OverTheWire – Bandit. Enfoque: Linux básico, permisos, redirecciones y pipes. Objetivo: reforzar habilidades esenciales para un SOC Analyst.
+El nivel "bandit" en OverTheWire.org es conocida en ciberseguridad por ofrecer al usuario una soltura decente con ssh, permisos, redirecciones y pipes. Mi objetivo con este repo es reforzar ese conocimiento para poder trabajar con más soltura en SOC L1.
