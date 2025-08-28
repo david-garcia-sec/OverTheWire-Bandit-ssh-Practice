@@ -8,7 +8,7 @@ En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
 Host: bandit.labs.overthewire.org
 Puerto: 2220
 
-ssh bandit.labs.overthewire.org -p 2220
+``ssh bandit.labs.overthewire.org -p 2220``
 
 ## Nivel 1
 en este
