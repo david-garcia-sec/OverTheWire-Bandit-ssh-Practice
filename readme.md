@@ -12,7 +12,7 @@ En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
 Host: bandit.labs.overthewire.org
 Puerto: 2220
 
-Para usar ssh usaremos:
+Para usar ssh utilizaremos:
 
 ``ssh usuario@host -p 2220`` con -p especificamos el puerto.
 
