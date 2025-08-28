@@ -2,6 +2,7 @@
 # Introducción
 
 Esta guía es para todo aquel que (como un servidor) quiere aprender linux y no sabe ni por donde empezar. Si solo has tocado un ordenador windows te será un buen dolor de cabeza.
+
 El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) es conocido en ciberseguridad por ofrecer al usuario un conocimiento decente con ssh, permisos, redirecciones y pipes. Mi objetivo con este repo es reforzar ese conocimiento para poder trabajar con más soltura en SOC L1.
 
 - Cuando no sepamos usar un comando podemos usar ``man`` ``-h`` o ``--help``.
