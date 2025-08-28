@@ -6,6 +6,11 @@ El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) 
 - Cuando no sepamos usar un comando podemos usar ``man`` ``-h`` o ``--help``.
 Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``. Para salir de la instrucción simplemente pulsamos ``q``.
 
+## Índice
+- [Nivel 0](#nivel-0)
+- [Nivel 1](#nivel-1)
+- [Nivel 2](#nivel-2)
+
 ## Nivel 0
 En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
 
