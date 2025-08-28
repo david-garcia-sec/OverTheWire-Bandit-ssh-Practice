@@ -17,6 +17,7 @@ Para usar ssh usaremos:
 
 
 En los siguientes niveles será banditX según el nivel y de pass una string de texto que encontremos en el directorio con más o menos dificultad, por ejemplo:
+
 ``ssh bandit4@bandit.labs.overthewire.org -p 2220``
 Y cuando nos pida la password será una string de texto como:
 ``aBNSDUGHBSjdbsadyuhsandskansj``
