@@ -4,7 +4,7 @@ El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) 
 
 - Cada vez que superemos un nivel es una buena práctica guardar la pass de cada uno en un .txt. Lo podemos hacer con ``touch``. Por ejemplo: ``touch contraseña.txt``
 - Cuando no sepamos usar un comando podemos usar ``man`` ``-h`` o ``--help``.
-Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``
+Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``. Para salir de la instrucción simplemente pulsamos ``q``.
 
 ## Nivel 0
 En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
