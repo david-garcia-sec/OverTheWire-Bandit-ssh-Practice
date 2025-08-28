@@ -40,7 +40,7 @@ Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 | `du`    | Muestra el uso de espacio en disco de archivos o directorios | `du -sh /home/usuario` → Tamaño total del directorio de manera resumida |
 | `find`  | Busca archivos o directorios según criterios                 | `find /home -name "*.txt"` → Busca todos los archivos `.txt` en `/home` |
 
-Solo será necesario hacer un ``ls`` para listar todo y un ``cat`` para ver el archivo ``readme``
+Solo será necesario hacer un ``ls`` para listar todo y un ``cat`` para ver el archivo ``readme``.
 
 ## Nivel 2
 
