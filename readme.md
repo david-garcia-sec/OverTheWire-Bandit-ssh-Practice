@@ -2,7 +2,7 @@
 # Introducción
 El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) es conocido en ciberseguridad por ofrecer al usuario un conocimiento decente con ssh, permisos, redirecciones y pipes. Mi objetivo con este repo es reforzar ese conocimiento para poder trabajar con más soltura en SOC L1.
 
-- Cada vez que superemos un nivel es una buena práctica guardar la pass de cada uno en un .txt. Lo podemos hacer con ``touch`` y ``nano`` para editar el texto del archivo.
+- Cada vez que superemos un nivel es una buena práctica guardar la pass del último nivel superado en un .txt. Lo podemos hacer con ``touch`` y ``nano`` para editar el texto del archivo.
 
 ![](https://github.com/david-garcia-sec/OverTheWire-Bandit-SOC-L1/blob/2fdfe4ef0e68ace3c62fcef3b13b1a8403ce97a8/images/touch.png)
 
