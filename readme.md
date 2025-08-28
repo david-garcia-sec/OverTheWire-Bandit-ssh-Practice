@@ -12,7 +12,9 @@ Host: bandit.labs.overthewire.org
 Puerto: 2220
 
 Para usar ssh usaremos:
+
 ``ssh usuario@host -p 2220`` con -p especificamos el puerto.
+
 ``ssh bandit0@bandit.labs.overthewire.org -p 2220`` y de contraseña cuando nos la pida ``bandit0``
 
 
