@@ -2,7 +2,7 @@
 # OverTheWire-Bandit-Notes
 El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) es conocido en ciberseguridad por ofrecer al usuario un conocimiento decente con ssh, permisos, redirecciones y pipes. Mi objetivo con este repo es reforzar ese conocimiento para poder trabajar con más soltura en SOC L1.
 
-- Cada vez que superemos un nivel es una buena práctica guardar la pass de cada uno en un .txt.*
+- Cada vez que superemos un nivel es una buena práctica guardar la pass de cada uno en un .txt. Lo podemos hacer con ``touch``. Por ejemplo: ``touch contraseña.txt``
 - Cuando no sepamos usar un comando podemos usar ``man`` ``-h`` o ``--help``.
 Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``
 
