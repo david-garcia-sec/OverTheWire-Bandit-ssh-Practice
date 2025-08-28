@@ -34,7 +34,7 @@ Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 ``ls`` Lista los archivos y carpetas del directorio actual.
 ``cd`` Cambia de directorio. Ejemplo:
 
-cd /var/log
+``cd /var/log``
 
 
 Te lleva al directorio donde se guardan los logs del sistema.
