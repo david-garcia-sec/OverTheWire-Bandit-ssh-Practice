@@ -7,8 +7,8 @@ El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) 
 Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``. Para salir de la instrucción simplemente pulsamos ``q``.
 
 ## Índice
-- [Nivel 0](#nivel-0)
-- [Nivel 1](#nivel-1)
+- [Nivel 0](#nivel-0) - Uso de ssh
+- [Nivel 1](#nivel-1) - ls,cd,cat,file,du y find.
 - [Nivel 2](#nivel-2)
 
 ## Nivel 0
