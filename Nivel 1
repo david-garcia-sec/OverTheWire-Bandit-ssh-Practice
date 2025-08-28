@@ -1,7 +1,0 @@
-# Nivel 1
-
-Nos enseña únicamente a conectarnos por ssh al objetivo. 
-
-Host: bandit.labs.overthewire.org
-Puerto: 2220
-
