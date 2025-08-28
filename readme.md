@@ -26,6 +26,7 @@ En los siguientes niveles será banditX según el nivel y de pass una string de 
 Y cuando nos pida la password será una string de texto como:
 
 ``aBNSDUGHBSjdbsadyuhsandskansj``
+Esto suele llamarse ``flag`` en CTF's.
 
 ## Nivel 1
 
