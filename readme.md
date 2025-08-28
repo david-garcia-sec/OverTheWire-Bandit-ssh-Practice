@@ -42,3 +42,11 @@ Te lleva al directorio donde se guardan los logs del sistema.
 ``file`` 
 ``du`` 
 ``find`` 
+| Comando | Función                                                      | Ejemplo de uso                                                          |
+| ------- | ------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| `ls`    | Lista archivos y directorios del directorio actual           | `ls -la` → Lista todos los archivos, incluyendo ocultos, con detalles   |
+| `cd`    | Cambia de directorio                                         | `cd /var/log` → Va al directorio `/var/log`                             |
+| `cat`   | Muestra el contenido de un archivo de texto                  | `cat archivo.txt` → Muestra el contenido de `archivo.txt`               |
+| `file`  | Detecta el tipo de un archivo                                | `file imagen.png` → Dice que es un archivo PNG                          |
+| `du`    | Muestra el uso de espacio en disco de archivos o directorios | `du -sh /home/usuario` → Tamaño total del directorio de manera resumida |
+| `find`  | Busca archivos o directorios según criterios                 | `find /home -name "*.txt"` → Busca todos los archivos `.txt` en `/home` |
