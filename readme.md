@@ -31,17 +31,6 @@ Y cuando nos pida la password será una string de texto como:
 
 Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 
-``ls`` Lista los archivos y carpetas del directorio actual.
-``cd`` Cambia de directorio. Ejemplo:
-
-``cd /var/log``
-
-
-Te lleva al directorio donde se guardan los logs del sistema.
-``cat`` 
-``file`` 
-``du`` 
-``find`` 
 | Comando | Función                                                      | Ejemplo de uso                                                          |
 | ------- | ------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | `ls`    | Lista archivos y directorios del directorio actual           | `ls -la` → Lista todos los archivos, incluyendo ocultos, con detalles   |
@@ -50,3 +39,5 @@ Te lleva al directorio donde se guardan los logs del sistema.
 | `file`  | Detecta el tipo de un archivo                                | `file imagen.png` → Dice que es un archivo PNG                          |
 | `du`    | Muestra el uso de espacio en disco de archivos o directorios | `du -sh /home/usuario` → Tamaño total del directorio de manera resumida |
 | `find`  | Busca archivos o directorios según criterios                 | `find /home -name "*.txt"` → Busca todos los archivos `.txt` en `/home` |
+
+
