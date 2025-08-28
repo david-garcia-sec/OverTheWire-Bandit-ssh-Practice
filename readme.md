@@ -43,7 +43,7 @@ Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 
 Solo será necesario hacer un ``ls`` para listar todo y un ``cat`` para ver el archivo ``readme``.
 
-*Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.
+*Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.*
 
 ## Nivel 2
 
