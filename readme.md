@@ -11,8 +11,8 @@ Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``. Para salir de la instrucció
 
 <p align="center">
   
-  ![](https://github.com/david-garcia-sec/OverTheWire-Bandit-SOC-L1/blob/2fdfe4ef0e68ace3c62fcef3b13b1a8403ce97a8/images/touch.png)
-  
+![](https://github.com/david-garcia-sec/OverTheWire-Bandit-SOC-L1/blob/2fdfe4ef0e68ace3c62fcef3b13b1a8403ce97a8/images/touch.png)
+
 </p>
 
 Para salir de nano, mantenemos la tecla Control+x
