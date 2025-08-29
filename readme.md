@@ -1,7 +1,7 @@
 ![](https://github.com/david-garcia-sec/OverTheWire-Bandit-Notes/blob/7ddd862895a1d0ea244b3cfb1ba19400418d0652/images/otw-bandit.jpg)
 # Introducción
 
-Esta guía es para todo aquel que (como un servidor) quiere aprender linux y no sabe ni por donde empezar. Si solo has tocado un ordenador windows te será de ayuda.
+Esta guía es para todo aquel que (como un servidor) quiere aprender linux y no sabe ni por donde empezar. Si solo has tocado un ordenador windows, te será de ayuda.
 
 El nivel "bandit" en OverTheWire.org (https://overthewire.org/wargames/bandit/) es conocido en ciberseguridad por ofrecer al usuario un conocimiento decente con ssh, permisos, redirecciones y pipes. Mi objetivo con este repo es reforzar ese conocimiento para poder trabajar con más soltura en SOC L1.
 
@@ -73,6 +73,4 @@ Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 
 Solo será necesario hacer un ``ls`` para listar todo y un ``cat`` para ver el archivo ``readme``.
 
-
-## Nivel 2
 
