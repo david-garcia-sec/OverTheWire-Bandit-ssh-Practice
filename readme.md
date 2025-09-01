@@ -69,7 +69,7 @@ Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 | `cat`   | Muestra el contenido de un archivo de texto                  | `cat archivo.txt` → Muestra el contenido de `archivo.txt`               |
 | `file`  | Detecta el tipo de un archivo                                | `file imagen.png` → Dice que es un archivo PNG                          |
 | `du`    | Muestra el uso de espacio en disco de archivos o directorios | `du -sh /home/usuario` → Tamaño total del directorio de manera resumida |
-| `find`  | Busca archivos o directorios según criterios                 | `find /home -name "*.txt"` → Busca todos los archivos `.txt` en `/home` |
+| `find`  | Busca archivos o directorios según criterios                 | `find home/ -name "*.txt"` → Busca todos los archivos `.txt` en `/home` |
 
 Solo será necesario hacer un ``ls`` para listar todo y un ``cat`` para ver el archivo ``readme``.
 
