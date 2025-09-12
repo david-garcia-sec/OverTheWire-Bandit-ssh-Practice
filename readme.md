@@ -56,7 +56,7 @@ Y cuando nos pida la password será una string de texto como:
 
 Esto suele llamarse ``flag`` en CTF's.
 
-*Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.**Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.*
+*Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.*
 
 ## Nivel 1
 
