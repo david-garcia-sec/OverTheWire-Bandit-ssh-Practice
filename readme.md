@@ -11,7 +11,7 @@ Por ejemplo: ``man cat`` ``-h cat`` ``--help cat``. Para salir de la instrucció
 - Podemos autocompletar comandos con Tabulador, lo usaremos siempre que podamos.
 - En linux para copiar y pegar es ``Control+Shift+C`` o ``Control+Shift+V``.
 
-- Cada vez que superemos un nivel es una buena práctica guardar la pass del último nivel superado en un .txt. Lo podemos hacer con ``touch`` y ``nano`` para editar el texto del archivo:
+- Cada vez que superemos un nivel, es una buena práctica guardar la pass del último nivel superado en un .txt. Lo podemos hacer con ``touch`` y ``nano`` para editar el texto del archivo:
 
 
 <br>
