@@ -30,8 +30,8 @@ Para ver nuestra pass en terminal le metemos un ``cat``.
 
 ## Índice
 - [Nivel 0](#nivel-0) - Uso de ssh
-- [Nivel 0->1](#nivel-1) - ls, cd, cat, file, du y find.
-- [Nivel 1->2](#nivel-2)
+- [Nivel 0 -> 1](#nivel-1) - ls, cd, cat, file, du y find.
+- [Nivel 1 -> 2](#nivel-2)
 
 ## Nivel 0
 En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
