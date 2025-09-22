@@ -30,8 +30,8 @@ Para ver nuestra pass en terminal le metemos un ``cat``.
 
 ## Índice
 - [Nivel 0](#nivel-0) - Uso de ssh
-- [Nivel 1](#nivel-1) - ls, cd, cat, file, du y find.
-- [Nivel 2](#nivel-2)
+- [Nivel 0->1](#nivel-1) - ls, cd, cat, file, du y find.
+- [Nivel 1->2](#nivel-2)
 
 ## Nivel 0
 En este nivel solo nos enseñan a conectarnos por ssh a la máquina objetivo.
@@ -58,7 +58,7 @@ Esto suele llamarse ``flag`` en CTF's.
 
 *Para terminar la sesión solo con poner ``logout`` o ``exit`` será suficiente.*
 
-## Nivel 1
+## Nivel 0 -> 1
 
 Cuando logueamos con bandit0 nos recomiendan usar varios comandos:
 
